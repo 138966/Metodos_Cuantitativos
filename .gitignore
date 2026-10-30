@@ -1,0 +1,14 @@
+*.save
+*.save.*
+*.log
+*.tmp
+.env
+*.key
+*.pem
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
+env*/
+*_env/
+*-env/
